@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projekt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projekt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projekt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Antylopa.cpp" />
+		<Unit filename="Antylopa.h" />
+		<Unit filename="Barszcz.cpp" />
+		<Unit filename="Barszcz.h" />
+		<Unit filename="Czlowiek.cpp" />
+		<Unit filename="Czlowiek.h" />
+		<Unit filename="Funkcje.cpp" />
+		<Unit filename="Funkcje.h" />
+		<Unit filename="Guarana.cpp" />
+		<Unit filename="Guarana.h" />
+		<Unit filename="Lis.cpp" />
+		<Unit filename="Lis.h" />
+		<Unit filename="Mlecz.cpp" />
+		<Unit filename="Mlecz.h" />
+		<Unit filename="Organizm.cpp" />
+		<Unit filename="Organizm.h" />
+		<Unit filename="Owca.cpp" />
+		<Unit filename="Owca.h" />
+		<Unit filename="Roslina.cpp" />
+		<Unit filename="Roslina.h" />
+		<Unit filename="Swiat.cpp" />
+		<Unit filename="Swiat.h" />
+		<Unit filename="Trawa.cpp" />
+		<Unit filename="Trawa.h" />
+		<Unit filename="WilczeJagody.cpp" />
+		<Unit filename="WilczeJagody.h" />
+		<Unit filename="Wilk.cpp" />
+		<Unit filename="Wilk.h" />
+		<Unit filename="Zolw.cpp" />
+		<Unit filename="Zolw.h" />
+		<Unit filename="Zwierze.cpp" />
+		<Unit filename="Zwierze.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,363 @@
+# depslib dependency file v1.0
+1493353863 source:c:\users\laura\documents\gfdgdf\projekt\czlowiek.cpp
+	"Czlowiek.h"
+	"stdio.h"
+	<conio.h>
+	"Funkcje.h"
+	<iostream>
+
+1493353711 c:\users\laura\documents\gfdgdf\projekt\czlowiek.h
+	"Zwierze.h"
+
+1493340252 c:\users\laura\documents\gfdgdf\projekt\zwierze.h
+	"Organizm.h"
+	"Funkcje.h"
+
+1493344871 c:\users\laura\documents\gfdgdf\projekt\organizm.h
+	<iostream>
+
+1493345963 source:c:\users\laura\documents\gfdgdf\projekt\lis.cpp
+	"stdio.h"
+	"Lis.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340212 c:\users\laura\documents\gfdgdf\projekt\lis.h
+	"Zwierze.h"
+
+1493351531 source:c:\users\laura\documents\gfdgdf\projekt\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Czlowiek.h"
+	"Swiat.h"
+
+1493353181 c:\users\laura\documents\gfdgdf\projekt\swiat.h
+	"Czlowiek.h"
+	"Trawa.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1493326770 source:c:\users\laura\documents\gfdgdf\projekt\organizm.cpp
+	"Organizm.h"
+	"Swiat.h"
+
+1493345488 source:c:\users\laura\documents\gfdgdf\projekt\roslina.cpp
+	"Roslina.h"
+	<iostream>
+	<cstdlib>
+
+1493345214 c:\users\laura\documents\gfdgdf\projekt\roslina.h
+	"Organizm.h"
+
+1493354220 source:c:\users\laura\documents\gfdgdf\projekt\swiat.cpp
+	"Swiat.h"
+	"Czlowiek.h"
+	"Lis.h"
+	"Wilk.h"
+	"Guarana.h"
+	"Barszcz.h"
+	"WilczeJagody.h"
+	"Zolw.h"
+	"Mlecz.h"
+	"Antylopa.h"
+	"Trawa.h"
+	"Owca.h"
+	<stdio.h>
+	<conio.h>
+	<algorithm>
+	<cstdlib>
+	"Funkcje.h"
+
+1493353198 source:c:\users\laura\documents\gfdgdf\projekt\zwierze.cpp
+	"Zwierze.h"
+	"Owca.h"
+	"Swiat.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1493148918 c:\users\laura\documents\gfdgdf\projekt\funkcje.h
+	"stdio.h"
+	<Windows.h>
+	<iostream>
+
+1493148896 source:c:\users\laura\documents\gfdgdf\projekt\funkcje.cpp
+	"stdio.h"
+	<Windows.h>
+	<iostream>
+	"Funkcje.h"
+
+1493349366 source:c:\users\laura\documents\gfdgdf\projekt\wilk.cpp
+	"stdio.h"
+	"Wilk.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340238 c:\users\laura\documents\gfdgdf\projekt\wilk.h
+	"Zwierze.h"
+
+1493344955 source:c:\users\laura\documents\gfdgdf\projekt\owca.cpp
+	"stdio.h"
+	"Owca.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340224 c:\users\laura\documents\gfdgdf\projekt\owca.h
+	"Zwierze.h"
+
+1493346833 source:c:\users\laura\documents\gfdgdf\projekt\zolw.cpp
+	"stdio.h"
+	"Zolw.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340243 c:\users\laura\documents\gfdgdf\projekt\zolw.h
+	"Zwierze.h"
+
+1493346472 source:c:\users\laura\documents\gfdgdf\projekt\antylopa.cpp
+	"stdio.h"
+	"Antylopa.h"
+	"Funkcje.h"
+	<conio.h>
+	<stdio.h>
+	<iostream>
+
+1493340204 c:\users\laura\documents\gfdgdf\projekt\antylopa.h
+	"Zwierze.h"
+
+1493345263 c:\users\laura\documents\gfdgdf\projekt\trawa.h
+	"Roslina.h"
+
+1493345263 source:c:\users\laura\documents\gfdgdf\projekt\trawa.cpp
+	"stdio.h"
+	"Trawa.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345177 source:c:\users\laura\documents\gfdgdf\projekt\mlecz.cpp
+	"stdio.h"
+	"Mlecz.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345263 c:\users\laura\documents\gfdgdf\projekt\mlecz.h
+	"Roslina.h"
+
+1493345263 c:\users\laura\documents\gfdgdf\projekt\wilczejagody.h
+	"Roslina.h"
+
+1493345263 source:c:\users\laura\documents\gfdgdf\projekt\wilczejagody.cpp
+	"stdio.h"
+	"WilczeJagody.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493352486 source:c:\users\laura\documents\gfdgdf\projekt\barszcz.cpp
+	"stdio.h"
+	"Barszcz.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493352508 c:\users\laura\documents\gfdgdf\projekt\barszcz.h
+	"Roslina.h"
+
+1493345698 source:c:\users\laura\documents\gfdgdf\projekt\guarana.cpp
+	"stdio.h"
+	"Guarana.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345768 c:\users\laura\documents\gfdgdf\projekt\guarana.h
+	"Roslina.h"
+
+1493346474 source:f:\obiektowe 1\projekt\antylopa.cpp
+	"stdio.h"
+	"Antylopa.h"
+	"Funkcje.h"
+	<conio.h>
+	<stdio.h>
+	<iostream>
+
+1493340206 f:\obiektowe 1\projekt\antylopa.h
+	"Zwierze.h"
+
+1493340254 f:\obiektowe 1\projekt\zwierze.h
+	"Organizm.h"
+	"Funkcje.h"
+
+1493344872 f:\obiektowe 1\projekt\organizm.h
+	<iostream>
+
+1493148920 f:\obiektowe 1\projekt\funkcje.h
+	"stdio.h"
+	<Windows.h>
+	<iostream>
+
+1493352488 source:f:\obiektowe 1\projekt\barszcz.cpp
+	"stdio.h"
+	"Barszcz.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493352510 f:\obiektowe 1\projekt\barszcz.h
+	"Roslina.h"
+
+1493345216 f:\obiektowe 1\projekt\roslina.h
+	"Organizm.h"
+
+1493353864 source:f:\obiektowe 1\projekt\czlowiek.cpp
+	"Czlowiek.h"
+	"stdio.h"
+	<conio.h>
+	"Funkcje.h"
+	<iostream>
+
+1493353712 f:\obiektowe 1\projekt\czlowiek.h
+	"Zwierze.h"
+
+1493148898 source:f:\obiektowe 1\projekt\funkcje.cpp
+	"stdio.h"
+	<Windows.h>
+	<iostream>
+	"Funkcje.h"
+
+1493345700 source:f:\obiektowe 1\projekt\guarana.cpp
+	"stdio.h"
+	"Guarana.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345770 f:\obiektowe 1\projekt\guarana.h
+	"Roslina.h"
+
+1493345964 source:f:\obiektowe 1\projekt\lis.cpp
+	"stdio.h"
+	"Lis.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340214 f:\obiektowe 1\projekt\lis.h
+	"Zwierze.h"
+
+1493351532 source:f:\obiektowe 1\projekt\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Czlowiek.h"
+	"Swiat.h"
+
+1493353182 f:\obiektowe 1\projekt\swiat.h
+	"Czlowiek.h"
+	"Trawa.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+
+1493345264 f:\obiektowe 1\projekt\trawa.h
+	"Roslina.h"
+
+1493345178 source:f:\obiektowe 1\projekt\mlecz.cpp
+	"stdio.h"
+	"Mlecz.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345264 f:\obiektowe 1\projekt\mlecz.h
+	"Roslina.h"
+
+1493326772 source:f:\obiektowe 1\projekt\organizm.cpp
+	"Organizm.h"
+	"Swiat.h"
+
+1493344956 source:f:\obiektowe 1\projekt\owca.cpp
+	"stdio.h"
+	"Owca.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340226 f:\obiektowe 1\projekt\owca.h
+	"Zwierze.h"
+
+1493345490 source:f:\obiektowe 1\projekt\roslina.cpp
+	"Roslina.h"
+	<iostream>
+	<cstdlib>
+
+1493345264 source:f:\obiektowe 1\projekt\trawa.cpp
+	"stdio.h"
+	"Trawa.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345264 source:f:\obiektowe 1\projekt\wilczejagody.cpp
+	"stdio.h"
+	"WilczeJagody.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493345264 f:\obiektowe 1\projekt\wilczejagody.h
+	"Roslina.h"
+
+1493349368 source:f:\obiektowe 1\projekt\wilk.cpp
+	"stdio.h"
+	"Wilk.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340240 f:\obiektowe 1\projekt\wilk.h
+	"Zwierze.h"
+
+1493346834 source:f:\obiektowe 1\projekt\zolw.cpp
+	"stdio.h"
+	"Zolw.h"
+	"Funkcje.h"
+	<conio.h>
+	<iostream>
+
+1493340244 f:\obiektowe 1\projekt\zolw.h
+	"Zwierze.h"
+
+1493353200 source:f:\obiektowe 1\projekt\zwierze.cpp
+	"Zwierze.h"
+	"Owca.h"
+	"Swiat.h"
+	<iostream>
+	<cstdlib>
+	<vector>
+
+1493354324 source:f:\obiektowe 1\projekt\swiat.cpp
+	"Swiat.h"
+	"Czlowiek.h"
+	"Lis.h"
+	"Wilk.h"
+	"Guarana.h"
+	"Barszcz.h"
+	"WilczeJagody.h"
+	"Zolw.h"
+	"Mlecz.h"
+	"Antylopa.h"
+	"Trawa.h"
+	"Owca.h"
+	<stdio.h>
+	<conio.h>
+	<algorithm>
+	<cstdlib>
+	"Funkcje.h"
+
